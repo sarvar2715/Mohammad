@@ -1,3 +1,3 @@
 # Mohammad
-A simple messaging app with Python 
+A simple messaning app with Python 
 Run Messanger to start the file
